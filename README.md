@@ -38,7 +38,13 @@
 * git pull                      &nbsp; &nbsp;-       fetch and merge any commits from the tracking remote branch
 
 
+## INSPECT & COMPARE ## 
 
+git log                &nbsp; &nbsp;-        show the commit history for the currently active branch
+git log branchB..branchA    &nbsp; &nbsp; -   show the commits on branchA that are not on branchB
+git log --follow [file]     &nbsp; &nbsp;- show the commits that changed file, even across renames
+git diff branchB...branchA          &nbsp; &nbsp;- show the diff of what is in branchA that is not in branchB
+git show [SHA]             &nbsp; &nbsp; - show any object in Git in human-readable format
 
 
 </sub>

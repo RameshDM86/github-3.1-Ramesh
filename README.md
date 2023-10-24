@@ -10,7 +10,7 @@ _**Common Github Codes**_
 
 - git config --global color.ui auto - set automatic command line coloring for Git for easy reviewing
 
-BRANCH & MERGE 
+## BRANCH & MERGE ##
 
  * git branch - list your branches. a * will appear next to the currently active branch 
 
@@ -22,7 +22,8 @@ BRANCH & MERGE
 
 *  git log                     -             show all commits in the current branch’s history
 
-SHARE & UPDATE
+## SHARE & UPDATE ##
+
 * git remote add [alias] [url]  -       add a git URL as an alias
 
 * git fetch [alias]             -       fetch down all the branches from that Git remote

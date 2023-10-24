@@ -1,4 +1,4 @@
-<font color="red"> # Github-3.1-Ramesh  `rgb(9, 105, 218)`
+# Github-3.1-Ramesh  `rgb(9, 105, 218)`
 
 # Common Github Codes ##
 

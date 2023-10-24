@@ -1,10 +1,10 @@
 # github-3.1-Ramesh
 
-### Common Github Codes ###
+# Common Github Codes #
 
 <sub> 
   
-# How to setup github #
+## How to setup github ##
   
 + git config --global user.name “[firstname lastname]”  &nbsp; &nbsp;- set a name that is identifiable for credit when review version history
 

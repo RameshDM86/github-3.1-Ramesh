@@ -5,7 +5,7 @@
 
 <sub> 
   
-## HOW tO SETUP github ##
+## HOW TO SETUP github ##
   
 + git config --global user.name “[firstname lastname]”  &nbsp; &nbsp;- set a name that is identifiable for credit when review version history
 

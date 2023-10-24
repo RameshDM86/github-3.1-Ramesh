@@ -1,10 +1,10 @@
 # github-3.1-Ramesh
 
-_## Common Github Codes ##_
+### Common Github Codes ###
 
 <sub> 
   
-_## How to setup github ##_
+# How to setup github #
   
 + git config --global user.name “[firstname lastname]”  &nbsp; &nbsp;- set a name that is identifiable for credit when review version history
 
@@ -12,7 +12,7 @@ _## How to setup github ##_
 
 + git config --global color.ui auto &nbsp; &nbsp;- set automatic command line coloring for Git for easy reviewing
 
-_## BRANCH & MERGE ##_
+## BRANCH & MERGE ##
 
  * git branch  &nbsp; &nbsp; - list your branches. a * will appear next to the currently active branch 
 

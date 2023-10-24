@@ -3,6 +3,7 @@
 _**Common Github Codes**_
 
 <sub> 
+  
 ## How to setup github ##
   
 + git config --global user.name “[firstname lastname]” - set a name that is identifiable for credit when review version history

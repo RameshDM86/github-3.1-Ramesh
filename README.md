@@ -6,7 +6,7 @@ _**Common Github Codes**_
 ## How to setup github
 - git config --global user.name “[firstname lastname]” - set a name that is identifiable for credit when review version history
 
-  - git config --global user.email “[valid-email]”  - set an email address that will be associated with each history marker
+- git config --global user.email “[valid-email]”  - set an email address that will be associated with each history marker
 
 - git config --global color.ui auto - set automatic command line coloring for Git for easy reviewing
 
@@ -24,9 +24,13 @@ BRANCH & MERGE
 
 SHARE & UPDATE
 * git remote add [alias] [url]  -       add a git URL as an alias
+
 * git fetch [alias]             -       fetch down all the branches from that Git remote
+
 * git merge [alias]/[branch]    -       merge a remote branch into your current branch to bring it up to date
+
 * git push [alias] [branch]     -       Transmit local branch commits to the remote repository branch
+
 * git pull                      -       fetch and merge any commits from the tracking remote branch
 
 
